@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="assets/banner.svg" alt="Sara Garzón — Desarrolladora de software en formación" width="100%" />
+</div>
 
-# Sara Garzón
-
-**Desarrolladora de software en formación** · SENA — Análisis y Desarrollo de Software
+<div align="center">
 
 Construyo aplicaciones con **Flutter** en el front-end y **Python / Flask** en el back-end,
 con pruebas automatizadas y flujo de trabajo en equipo sobre Git.
@@ -53,13 +53,25 @@ usuarios, con autenticación por JWT y una app móvil conectada a la API.
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| [`world-cup-database`](https://github.com/sara051106garzon-boop/world-cup-database) | Base de datos de mundiales de fútbol con consultas y reportes | JavaScript · SQL |
-| [`Proyecto-REDEBAN`](https://github.com/sara051106garzon-boop/Proyecto-REDEBAN) | Sistema de gestión para red de bancos de alimentos | JavaScript |
-| [`Cajero-Automatico`](https://github.com/sara051106garzon-boop/Cajero-Automatico) | Simulador de cajero automático con validaciones | Python |
-| [`rutas-sara`](https://github.com/sara051106garzon-boop/rutas-sara) | Ejercicios de rutas y controladores | Python |
-| [`clase-virtual`](https://github.com/sara051106garzon-boop/clase-virtual) | Prácticas de programación orientada a objetos | Java |
+| [`world-cup-database`](https://github.com/sara051106garzon-boop/world-cup-database) | Base de datos relacional de los mundiales: esquema, carga desde CSV y consultas de análisis | SQL · PostgreSQL · Bash |
+| [`practica-sqlalchemy`](https://github.com/sara051106garzon-boop/practica-sqlalchemy) | Modelado de datos con SQLAlchemy y migraciones de Alembic | Python · SQLAlchemy |
+| [`practica-sqlalchemy-roles`](https://github.com/sara051106garzon-boop/practica-sqlalchemy-roles) | Modelos relacionales: usuarios, roles, canciones y álbumes | Python · SQLAlchemy |
+| [`rutas-sara`](https://github.com/sara051106garzon-boop/rutas-sara) | Rutas, controladores y modelos del back-end de ParkLink | Python · Flask |
+| [`parklink-backend-v1`](https://github.com/sara051106garzon-boop/parklink-backend-v1) | Primera versión del back-end de ParkLink | Python · Flask |
 
 ---
+
+## Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sara051106garzon-boop/sara051106garzon-boop/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sara051106garzon-boop/sara051106garzon-boop/output/snake.svg" />
+  <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/sara051106garzon-boop/sara051106garzon-boop/output/snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ## Actividad
 

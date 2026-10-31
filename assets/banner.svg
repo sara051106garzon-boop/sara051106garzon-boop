@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Sara Garzón — Desarrolladora de software en formación">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f1a"/>
+      <stop offset="50%" stop-color="#101a2e"/>
+      <stop offset="100%" stop-color="#0a0f1a"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="50%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="brillo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="brillo2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="rejilla" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#fondo)"/>
+  <rect width="1280" height="320" fill="url(#rejilla)"/>
+  <circle cx="1090" cy="20" r="300" fill="url(#brillo)"/>
+  <circle cx="140" cy="330" r="260" fill="url(#brillo2)"/>
+
+  <!-- llaves decorativas -->
+  <g fill="none" stroke="#2f81f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.35">
+    <path d="M1060 110 l-26 0 0 40 -18 0 18 0 0 40 26 0" transform="translate(0,-20)"/>
+    <path d="M1180 110 l26 0 0 40 18 0 -18 0 0 40 -26 0" transform="translate(0,-20)"/>
+  </g>
+
+  <!-- barra superior de acento -->
+  <rect x="0" y="0" width="1280" height="6" fill="url(#acento)"/>
+
+  <!-- nombre -->
+  <text x="80" y="132" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" fill="#f8fafc" letter-spacing="-1">Sara Garzón</text>
+
+  <!-- rol -->
+  <text x="80" y="178" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="24" fill="#94a3b8">Desarrolladora de software en formación · SENA ADSO</text>
+
+  <!-- stack -->
+  <text x="80" y="222" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#2f81f7" letter-spacing="3">FLUTTER · PYTHON · FLASK · MYSQL</text>
+
+  <!-- linea de acento -->
+  <rect x="80" y="248" width="140" height="5" rx="2.5" fill="url(#acento)"/>
+
+  <!-- firma -->
+  <text x="80" y="290" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#64748b" letter-spacing="1">github.com/sara051106garzon-boop</text>
+</svg>
