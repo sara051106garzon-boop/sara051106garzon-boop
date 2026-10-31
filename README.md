@@ -61,12 +61,13 @@ usuarios, con autenticación por JWT y una app móvil conectada a la API.
 
 ---
 
-## Estadísticas
+## Actividad
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sara051106garzon-boop&show_icons=true&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e&bg_color=00000000" alt="Estadísticas de GitHub de Sara" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara051106garzon-boop&layout=compact&hide_border=true&title_color=2f81f7&text_color=8b949e&bg_color=00000000" alt="Lenguajes más usados" />
+[![Seguidores](https://img.shields.io/github/followers/sara051106garzon-boop?label=Seguidores&style=flat-square&color=2f81f7&labelColor=1f2328)](https://github.com/sara051106garzon-boop?tab=followers)
+![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsara051106garzon-boop&query=%24.public_repos&label=Repos%20p%C3%BAblicos&style=flat-square&color=2f81f7&labelColor=1f2328)
+![Último commit](https://img.shields.io/github/last-commit/sara051106garzon-boop/parklink-backend?label=%C3%9Altimo%20commit&style=flat-square&color=2f81f7&labelColor=1f2328)
 
 </div>
 
